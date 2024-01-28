@@ -3,7 +3,6 @@ title: 如何在 Next.js 项目中使用 supabase
 publishedAt: 2023-08-16
 summary: 文章主要介绍了 supabase的基本情况以及如何在 next.js 项目中使用
 href: how-to-use-supabase-in-a-nextjs-project
-category: Study
 cover: https://obsidian-picgo-le.oss-cn-hangzhou.aliyuncs.com/img/blog-5.png
 ---
 ![blog-5.png](https://obsidian-picgo-le.oss-cn-hangzhou.aliyuncs.com/img/blog-5.png)
